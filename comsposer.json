@@ -1,0 +1,20 @@
+{
+    "name": "vanilla-forums",
+    "type": "library",
+    "description": "Vanilla Forum",
+    "keywords": ["forum","vanilla"],
+    "homepage": "http://vanillaforums.org/",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Mark O'Sullivan",
+            "email": "mark@vanillaforums.com",
+            "homepage": "http://vanillaforums.org/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    }
+    
+}
